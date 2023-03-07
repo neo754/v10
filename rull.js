@@ -60,7 +60,7 @@ global.nomorwa = '0'
 global.nameown = '𝙕𝙚𝙤'
 global.gcname = '𝙉𝘼𝙔𝙇𝘼-𝙈𝘿 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Dibuat Oleh 𝙕𝙚𝙤'
-global.namebot = '𝙉𝘼𝙔𝙇𝘼-𝙈𝘿
+global.namebot = '𝙉𝘼𝙔𝙇𝘼-𝙈𝘿'
 global.packname2 = '𝙉𝘼𝙔𝙇𝘼-𝙈𝘿 ꩜'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ API AI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺ 
