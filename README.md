@@ -40,7 +40,7 @@ WhatsApp Bot Multi Device
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/new/github/khrlmstfa/Legacy-MultiDeviceV1?template=https://github.com/KhrlMstfa/Legacy-MultiDeviceV1)
+[![Deploy](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/new/github/neo754/v10?template=https://github.com/KhrlMstfa/Legacy-MultiDeviceV1)
 
 
 # Heroku Buildpack
